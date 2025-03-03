@@ -18,25 +18,6 @@ This project is a blockchain-based academic credential system that allows educat
 - **Development**: Hardhat for smart contract development and testing
 - **Web3 Integration**: ethers.js for blockchain interaction
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Compile the smart contract:
-   ```
-   npm run compile
-   ```
-4. Deploy the smart contract to a local network:
-   ```
-   npm run deploy
-   ```
-5. Start the development server:
-   ```
-   npm run dev
-   ```
 
 ## Smart Contract
 
